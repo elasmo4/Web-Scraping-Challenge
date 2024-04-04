@@ -23,7 +23,7 @@
 
 <h5>Features and Tests</h5>
 
-> The main purpose of Web-Scraping-Challenge is to extract specific information from the above specificed webpage and compile it into a .json file, as well as to visualize synthesized data.
+> The main purpose of Web-Scraping-Challenge is to extract information from the above specificed webpage for visual comprehension, and to compile data into a .json file.
 > 
 
 <h5>Contact:</h5>
